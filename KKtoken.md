@@ -25,7 +25,7 @@ Open the file and replace its contents with:
 ​{
   "env": {
     "ANTHROPIC_API_KEY": "Your_token",
-    "ANTHROPIC_BASE_URL": "https://agentrouter.org",
+    "ANTHROPIC_BASE_URL": "https://kktoken.cc",
     "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
     "MAX_THINKING_TOKENS": "30000",
     "CLAUDE_CODE_AUTO_COMPACT_WINDOW": "1000000",
